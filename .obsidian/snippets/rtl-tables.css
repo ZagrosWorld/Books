@@ -1,0 +1,24 @@
+/* جداول راست‌به‌چپ برای اسناد فارسی این vault.
+
+   فعال‌سازی: Settings -> Appearance -> CSS snippets -> "rtl-tables"
+   (به‌صورت پیش‌فرض از طریق .obsidian/appearance.json فعال شده است.)
+
+   اثر: ترتیب ستون‌ها راست‌به‌چپ می‌شود (ستون اول در سمت راست)، متن هر
+   خانه بر اساس نخستین کاراکتر قوی‌اش جهت‌دهی می‌شود (unicode-bidi: plaintext)
+   تا ترکیب فارسی/انگلیسی و اعداد درست نمایش داده شود. */
+
+.markdown-preview-view table,
+.markdown-rendered table,
+.markdown-source-view.mod-cm6 .cm-table-widget table {
+  direction: rtl;
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td,
+.markdown-rendered th,
+.markdown-rendered td,
+.markdown-source-view.mod-cm6 .cm-table-widget th,
+.markdown-source-view.mod-cm6 .cm-table-widget td {
+  unicode-bidi: plaintext;
+  text-align: right;
+}

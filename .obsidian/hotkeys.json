@@ -1,0 +1,11 @@
+{
+  "obsidian-rtl:switch-text-direction": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}
