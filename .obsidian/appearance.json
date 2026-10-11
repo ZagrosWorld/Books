@@ -1,0 +1,10 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "textFontFamily": "Vazirmatn",
+  "interfaceFontFamily": "Vazirmatn",
+  "enabledCssSnippets": [
+    "vazirmatn",
+    "rtl-tables"
+  ]
+}

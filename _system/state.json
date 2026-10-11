@@ -1,0 +1,70 @@
+{
+  "current_book": "طبیعت‌گردی",
+  "books": {
+    "طبیعت‌گردی": {
+      "folder_id": "1tCbFGg4fPD2abtHK0ucvBFq81YllTQh5",
+      "folders": {
+        "00-Index": "16rCvWOX7_4BJZSQ3xmfOk9CJaCJG5Pne",
+        "01-Outline": "1FkoZAekXZAklJHJypudGJP-_R_iFXa9i",
+        "02-Chapters": "1LT_tyOKc1gwhaKnOPKOJfHHg0_UJWp4r",
+        "03-Research": "1mjX11a0i8GGhzWEuOUBxFRXwt7Po9Bmm",
+        "03-Research/Sources": "1FdBv4-bAcKivoa8Tw7OtZUTdaaGyvOsF",
+        "03-Research/Notes": "1HK7dzhVyf9uBMraFXrGZwLCAQL1buXT8",
+        "04-Entities": "1Q3-Ig025Gk3TyzqQDPJHpQFCq-61F0sf",
+        "05-Inbox": "18wjaifL4S-d2GcUOVdHYLMI1wK91-se-",
+        "05-Inbox/voice-notes": "1gC7tfrPrTy4wh1_ey9Uh8UnyvtuUF6vJ",
+        "_meta": "1gYoLDcd5iNLZ6QqezWTe5FSneF6VWGJO",
+        "_meta/history": "1EQ4ttTMuJBgkL2RmplM-UyxMiAgPPCa-",
+        "_meta/reviews": "1O1dRC36RpN-tIbeD37HFro59nquvsjjB",
+        "_export": "1WB2GK4u_5kxpTBicVnwudORtPHbHaOyO",
+        "_trash": "18m3sQePV6P3xLrbWb9hhMGR9aOEDlOVK"
+      },
+      "files": {
+        "Book Home.md": "13s2pPQuDGcBVjA9ZbTVYaFOSsKJXZI-2",
+        "TOC.md": "1thG5BUDbwNudQKuLXVdNbY749uROy27q",
+        "Bibliography.md": "1zDuUpBD293wvWBdVskolDr9sf4O2m0tG",
+        "MOC - Characters.md": "1tgnlofMojX49KjJIBTe4r8r0e8AhmC1z",
+        "MOC - Concepts.md": "1dxYk8eHu8m_SFCkpbjMderbUx0KRsYPn",
+        "MOC - Sources.md": "1twPGtWFzjuQXdPDt2BhJURaMHQmGqd4f",
+        "Outline.md": "1sy7G3kvgO_0lmnZBjUwWNwSkTT8FUH3J",
+        "style-guide.md": "1E2WrtbKBUMGRhCqe2K0Qhhm2nb1LRzeE",
+        "glossary.md": "1RZbpcNJWYD6CwxN0WqWYsvbMu2jEUAIq",
+        "tag-taxonomy.md": "1JzHV4sqi0sfytK2oYtkrwUEw1o9oi_gT",
+        "changelog.md": "15kdREFs8JWvyWdr07AYfThtnFxRA3tLj"
+      },
+      "chapters": [],
+      "last_write": "2026-10-10T14:20:00+03:30"
+    }
+  },
+  "pending_proposals": [],
+  "open_questions": [
+    {
+      "asked_at": "2026-10-10T14:20:00+03:30",
+      "slack_thread_ts": "1791628915.902389",
+      "question": "After creating the empty book skeleton, asked Mansour what the book «طبیعت‌گردی» is about (genre: travelogue / guide / other) so an outline can be proposed.",
+      "reminded": false
+    },
+    {
+      "asked_at": "2026-10-11T13:45:00+03:30",
+      "slack_thread_ts": "1791713577.097329",
+      "question": "Voice note F0C974U2M96 transcribed as «خب ببین، کتابی که بهت گفتم رو درست کن، اون اوکیه. یه دونه کتاب دیگه برام درست کن در زمینه آموزش ریاضیات.» Intent: create_book (mode ask) for a new math-education book; «طبیعت‌گردی» stays as is. Asked Mansour for the new book's title (tentative default «آموزش ریاضیات»). Next: ask remaining details one at a time, then post an Action Proposal.",
+      "reminded": false
+    }
+  ],
+  "resolved_questions": [
+    {"slack_thread_ts": "1791627050.148719", "question": "Start a new book now, or first talk through the idea?", "answer": "New book «طبیعت‌گردی» (from voice note F0C88PHG84A)"},
+    {"slack_thread_ts": "1791627602.108599", "question": "Voice note F0C88PHG84A could not be transcribed", "answer": "Re-transcribed on 2026-10-10 14:14 with large-v3 and VAD off"},
+    {"slack_thread_ts": "1791628915.902389", "question": "Unclear tail of voice note after «و بعد…»; type it?", "answer": "«نیازی نیست فقط کتاب رو بساز» (1791629160.907329): name confirmed, explicit go-ahead to create the book; skeleton created."}
+  ],
+  "last_change": {
+    "at": "2026-10-10T14:20:00+03:30",
+    "book": "طبیعت‌گردی",
+    "intent": "create_book",
+    "summary": "Created book folder, subfolders, and empty templates; registered in books-index; set as current book.",
+    "snapshot": null
+  },
+  "drive": {
+    "bookdraft_folder_id": "1SivqyXF225Uo31UhSvZoUdAutEJfx71e",
+    "system_folder_id": "1gC_5Lgj5XB45DJN_XbBce34s82qpoDRO"
+  }
+}

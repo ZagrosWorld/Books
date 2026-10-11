@@ -1,0 +1,29 @@
+/* فونت وزیرمتن برای متن‌ها و رابط کاربری این vault.
+
+   فعال‌سازی: Settings -> Appearance -> CSS snippets -> "vazirmatn"
+   (به‌صورت پیش‌فرض از طریق .obsidian/appearance.json فعال شده است.)
+
+   اثر: متن سندها (ویرایش، لایوپرویو و ریدینگ)، تیترها و رابط کاربری
+   Obsidian با فونت Vazirmatn نمایش داده می‌شوند. این فونت روی ویندوز
+   نصب است:
+   C:\Users\jahan\AppData\Local\Microsoft\Windows\Fonts\Vazirmatn-VariableFont_wght.ttf
+   کدها و بلوک‌های کد همچنان با فونت monospace می‌مانند. */
+
+body {
+  --font-text-override: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+  --font-interface-override: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+  --font-text-theme: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+  --font-interface-theme: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+  --font-text: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+  --font-interface: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+}
+
+.markdown-source-view,
+.markdown-source-view.is-live-preview,
+.markdown-preview-view,
+.markdown-rendered,
+.cm-editor,
+.cm-scroller,
+.cm-content {
+  --font-text: "Vazirmatn", "Segoe UI", Tahoma, sans-serif !important;
+}

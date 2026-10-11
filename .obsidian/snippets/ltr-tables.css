@@ -1,0 +1,21 @@
+/* گزینه جایگزین: جدول‌ها با ترتیب ستون چپ‌به‌راست بمانند و فقط متن هر
+   خانه بر اساس محتوای خودش جهت‌دهی شود (برگرفته از docs/temp/pe-tables-ltr.css).
+
+   فعال‌سازی دستی: Settings -> Appearance -> CSS snippets -> "ltr-tables"
+   (در حالت پیش‌فرض غیرفعال است؛ برای جابه‌جایی، rtl-tables را خاموش کنید.) */
+
+.markdown-preview-view table,
+.markdown-rendered table,
+.markdown-source-view.mod-cm6 .cm-table-widget table {
+  direction: ltr;
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td,
+.markdown-rendered th,
+.markdown-rendered td,
+.markdown-source-view.mod-cm6 .cm-table-widget th,
+.markdown-source-view.mod-cm6 .cm-table-widget td {
+  unicode-bidi: plaintext;
+  text-align: start;
+}
