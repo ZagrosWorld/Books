@@ -32,8 +32,16 @@
         "tag-taxonomy.md": "1JzHV4sqi0sfytK2oYtkrwUEw1o9oi_gT",
         "changelog.md": "15kdREFs8JWvyWdr07AYfThtnFxRA3tLj"
       },
-      "chapters": [],
-      "last_write": "2026-10-21T21:12:00+03:30"
+      "chapters": [
+        {
+          "title": "گزیدگی افعی شاخ‌دار ایرانی",
+          "path": "02-Chapters/گزیدگی افعی شاخ‌دار ایرانی.md",
+          "section": "مارگزیدگی",
+          "section_path": "04-Entities/مارگزیدگی.md",
+          "status": "draft"
+        }
+      ],
+      "last_write": "2026-10-21T21:40:00+03:30"
     }
   },
   "pending_proposals": [],
@@ -57,10 +65,10 @@
     {"slack_thread_ts": "1791628915.902389", "question": "Unclear tail of voice note after «و بعد…»; type it?", "answer": "«نیازی نیست فقط کتاب رو بساز» (1791629160.907329): name confirmed, explicit go-ahead to create the book; skeleton created."}
   ],
   "last_change": {
-    "at": "2026-10-21T21:12:00+03:30",
+    "at": "2026-10-21T21:40:00+03:30",
     "book": "طبیعت‌گردی",
-    "intent": "edit_section",
-    "summary": "Volume (حجم) in Book Home details set to ۵ جلد, approved by Mansour via Telegram on 2026-10-21.",
+    "intent": "add_chapter",
+    "summary": "Added the snakebite section «مارگزیدگی» and the chapter «گزیدگی افعی شاخ‌دار ایرانی» on Iranian horned viper bites, approved by Mansour via Telegram on 2026-10-21.",
     "snapshot": null
   },
   "drive": {
