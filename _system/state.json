@@ -33,7 +33,7 @@
         "changelog.md": "15kdREFs8JWvyWdr07AYfThtnFxRA3tLj"
       },
       "chapters": [],
-      "last_write": "2026-10-10T14:20:00+03:30"
+      "last_write": "2026-10-21T00:00:00+03:30"
     }
   },
   "pending_proposals": [],
@@ -57,10 +57,10 @@
     {"slack_thread_ts": "1791628915.902389", "question": "Unclear tail of voice note after «و بعد…»; type it?", "answer": "«نیازی نیست فقط کتاب رو بساز» (1791629160.907329): name confirmed, explicit go-ahead to create the book; skeleton created."}
   ],
   "last_change": {
-    "at": "2026-10-10T14:20:00+03:30",
+    "at": "2026-10-21T00:00:00+03:30",
     "book": "طبیعت‌گردی",
-    "intent": "create_book",
-    "summary": "Created book folder, subfolders, and empty templates; registered in books-index; set as current book.",
+    "intent": "edit_section",
+    "summary": "Filled book details approved by Mansour via Telegram on 2026-10-21: genre طبیعت‌گردی, audience همهٔ افراد, point of view کلی, tone دوستانه. Language left Persian; length left empty.",
     "snapshot": null
   },
   "drive": {
