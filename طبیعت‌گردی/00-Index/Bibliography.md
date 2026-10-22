@@ -6,7 +6,7 @@ order: 0
 status: outline
 tags: [structure, source]
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 rtl: true
 ---
 # کتاب‌نامه
@@ -25,6 +25,7 @@ rtl: true
 | [[پروتئوم زهر افعی شاخ‌دار سمنان]] | Samianifard et al. *Archives of Razi Institute* 79(1):154 | ۲۰۲۴ | [archrazi.areeo.ac.ir](https://archrazi.areeo.ac.ir/article_129768.html) |
 | [[پادزهر چندظرفیتی رازی]] | MAVIN، Polyvalent Snake Antivenin، مؤسسهٔ رازی | ۲۰۱۶ | [toxinfo.med.tum.de](https://www.antivenoms.toxinfo.med.tum.de/productinfo/POLYVALENT_SNAKE_ANTIVENIN.html) |
 | [[پایگاه خزندگان - Pseudocerastes persicus]] | The Reptile Database | — | [reptile-database.reptarium.cz](https://reptile-database.reptarium.cz/species?genus=Pseudocerastes&species=persicus) |
+| [[GBIF - پراکنش Pseudocerastes persicus]] | GBIF، رخدادهای *Pseudocerastes persicus* (taxonKey ۲۴۴۳۸۳۳) | ۲۰۲۶ | [gbif.org](https://www.gbif.org/species/2443833) |
 | [[هم‌زیستی در زاگرس غربی]] | Bok et al. *Herpetology Notes* 10:323–325 | ۲۰۱۷ | [biotaxa.org](https://www.biotaxa.org/hn/article/view/29155) |
 | [[توصیف افعی دم‌عنکبوتی]] | Bostanchi, Anderson, Kami, Papenfuss. *Proc. Calif. Acad. Sci.* 57(14):443–450 | ۲۰۰۶ | [doi:10.5281/zenodo.15914868](https://doi.org/10.5281/zenodo.15914868) |
 

@@ -6,7 +6,7 @@ order: 0
 status: outline
 tags: [structure, source]
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 rtl: true
 ---
 # منابع
@@ -26,6 +26,7 @@ rtl: true
 - [[پروتئوم زهر افعی شاخ‌دار سمنان]]
 - [[پادزهر چندظرفیتی رازی]]
 - [[پایگاه خزندگان - Pseudocerastes persicus]]
+- [[GBIF - پراکنش Pseudocerastes persicus]]
 - [[هم‌زیستی در زاگرس غربی]]
 - [[توصیف افعی دم‌عنکبوتی]]
 

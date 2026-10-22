@@ -41,7 +41,7 @@
           "status": "draft"
         }
       ],
-      "last_write": "2026-10-21T21:40:00+03:30"
+      "last_write": "2026-10-22T13:08:00+03:30"
     }
   },
   "pending_proposals": [],
@@ -65,10 +65,10 @@
     {"slack_thread_ts": "1791628915.902389", "question": "Unclear tail of voice note after «و بعد…»; type it?", "answer": "«نیازی نیست فقط کتاب رو بساز» (1791629160.907329): name confirmed, explicit go-ahead to create the book; skeleton created."}
   ],
   "last_change": {
-    "at": "2026-10-21T21:40:00+03:30",
+    "at": "2026-10-22T13:08:00+03:30",
     "book": "طبیعت‌گردی",
-    "intent": "add_chapter",
-    "summary": "Added the snakebite section «مارگزیدگی» and the chapter «گزیدگی افعی شاخ‌دار ایرانی» on Iranian horned viper bites, approved by Mansour via Telegram on 2026-10-21.",
+    "intent": "add_image",
+    "summary": "Added a GBIF occurrence-density heatmap of Pseudocerastes persicus to the Iran range section of the Iranian horned viper chapter, noting that denser hexes track records rather than abundance and that the Levant cluster is likely P. fieldi under older taxonomy. Approved by Mansour via Telegram on 2026-10-22.",
     "snapshot": null
   },
   "drive": {
